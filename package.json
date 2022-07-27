@@ -1,0 +1,25 @@
+{
+  "name": "palindrome-checker-kata",
+  "version": "1.0.0",
+  "description": "palindrome-checker-kata",
+  "main": "palindrome-checker.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianQL/palindrome-checker-kata.git"
+  },
+  "author": "Adrián Quesada López",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianQL/palindrome-checker-kata/issues"
+  },
+  "homepage": "https://github.com/AdrianQL/palindrome-checker-kata#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
